@@ -9,6 +9,10 @@ void main() {
   var g = 0;
   // g++; // g = g + 1;
 
+  
+  //increment dan decrement
+  // ++var maka var = var + 1
+  // var-- maka var = var
   var k = g++; // k = g, g++
   var a = ++g; // a = (++g)
 
