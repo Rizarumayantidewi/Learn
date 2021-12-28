@@ -1,7 +1,22 @@
 import 'dart:ffi';
 
 void main() {
-  var name = 'Riza Rumayanti Dewi';
+  
+  //ini tanpa variable
+  print('Kai');
+  
+  //ini variable
+  String name;    //yg ini
+  name = 'Riza';
+  
+  print(name);
+  
+  // ini deklarasi langsung
+  String name = 'Riza';     //yg ini
+  print(name);
+  
+  // ini kunci var
+  var name = 'Riza Rumayanti Dewi';     //yg ini
 
   print(name);
 
