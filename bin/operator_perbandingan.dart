@@ -1,6 +1,7 @@
 void main() {
-  print(8 == 8);
-  print(11 != 11);
+  
+  print(8 == 8);                //samadengan
+  print(11 != 11);              //tidak sama dengan
   print(1 > 1);
   print(25 < 25);
   print(14 >= 14);
