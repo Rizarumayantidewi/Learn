@@ -10,14 +10,18 @@ void main() {
   print(apakahNilaiAbsenBagus);
 
   // dan &
-  var lulus1 = apakahNilaiAkhirBagus && apakahNilaiAbsenBagus;
+  //t t = t
+  //semua tf ft ff = f
+  var lulus1 = apakahNilaiAkhirBagus && apakahNilaiAbsenBagus;      
   print(lulus1);
 
   // atau |
+  // semua tt tf ft = t
+  //ff = f
   var lulus2 = apakahNilaiAkhirBagus || apakahNilaiAbsenBagus;
   print(lulus2);
 
-  //kebalikan !
+  //kebalikan ! sekedar kebalikan
   print(!true);
   print(!false);
 }
