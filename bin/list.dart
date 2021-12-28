@@ -10,19 +10,19 @@ void main() {
 
   var names = <String>[];
 
-  names.add('Riza');
+  names.add('Riza');          //menambahkan data di list
   names.add('Rumayanti');
   names.add('Dewi');
 
   print(names);
-  print(names.length);
+  print(names.length);        //index
 
-  print(names[0]);
+  print(names[0]);            //mengambil data di list
 
-  names[1] = 'Gilang';
+  names[1] = 'Gilang';        //mengubah data di list
   print(names[1]);
 
-  names.removeAt(1);
+  names.removeAt(1);          //menghapus data di list
   print(names);
   print(names[1]);
 
