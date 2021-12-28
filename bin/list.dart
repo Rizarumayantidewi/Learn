@@ -26,7 +26,7 @@ void main() {
   print(names);
   print(names[1]);
 
-  var names1 = <String>[
+  var names1 = <String>[      //deklarasi list secara langsung
     'Gilang',
     'Permana',
   ];
