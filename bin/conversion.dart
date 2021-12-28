@@ -1,4 +1,6 @@
 void main() {
+  
+  //konversi string dan number
   var inputString = '25';
   var inputInt = int.parse(inputString);
   var inputDouble = double.parse(inputString);
@@ -7,9 +9,9 @@ void main() {
   print(inputInt);
   print(inputDouble);
 
-  var intToDouble = inputInt.toDouble();
-  var doubleToInt = inputDouble.toInt();
+  var intToDouble = inputInt.toDouble();            //int to double
+  var doubleToInt = inputDouble.toInt();            //double to int
 
-  var intToString = inputInt.toString();
-  var doubleToString = inputDouble.toString();
+  var intToString = inputInt.toString();            //int to string
+  var doubleToString = inputDouble.toString();      //striing to int
 }
