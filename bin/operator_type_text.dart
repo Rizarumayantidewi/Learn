@@ -1,4 +1,8 @@
 void main() {
+  
+  // as = konversi tipedata secara paksa
+  //is akan true jika object sesuai tipe data
+  //is! akan tru jika object tidak sesuai tipe data
   dynamic variable = 1;
 
   // var variableString = variable as String; //error
