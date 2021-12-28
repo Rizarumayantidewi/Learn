@@ -1,6 +1,6 @@
 void main() {
   
-  //tipedata number
+  //tipedata number             number hanya bisa bilangan bulat
   int number1 = 11;
   double number2 = 8.8;       //desimal pake .
 
