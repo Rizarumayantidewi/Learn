@@ -25,9 +25,11 @@ void main() {
   print(name);
 
   print(name);
+  
+  // ini kunci final
 
   var firstName = 'Gilang';
-  final lastName = 'Permana';
+  final lastName = 'Permana';     //yg ini
 
   print(firstName);
   print(lastName);
